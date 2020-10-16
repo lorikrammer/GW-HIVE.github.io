@@ -15,12 +15,12 @@
 
 ## [`/docs`](./docs) Table of contents
 
- - media: Folder for media files
- - page.datasets.html: https://hive.biochemistry.gwu.edu/datasets
- - index.html: https://hive.biochemistry.gwu.edu/home
- - page.events.html: https://hive.biochemistry.gwu.edu/events
- - page.hiveteam.html: https://hive.biochemistry.gwu.edu/hiveteam
- - page.people.html: https://hive.biochemistry.gwu.edu/people
- - page.publications.html: https://hive.biochemistry.gwu.edu/publications
- - page.research.html: https://hive.biochemistry.gwu.edu/research
- - page.resources.html: https://hive.biochemistry.gwu.edu/resources
+ - [media](docs/media) -> Folder for media files
+ - [page.datasets.html](docs/page.datasets.html) ->  https://hive.biochemistry.gwu.edu/datasets
+ - [page.home.html](docs/page.home.html) -> https://hive.biochemistry.gwu.edu/home
+ - [page.events.html](docs/page.events.html) -> https://hive.biochemistry.gwu.edu/events
+ - [page.hiveteam.html](docs/page.hiveteam.html) -> https://hive.biochemistry.gwu.edu/hiveteam
+ - [page.people.html](docs/page.people.html) -> https://hive.biochemistry.gwu.edu/people
+ - [page.publications.html](docs/page.publications.html) -> https://hive.biochemistry.gwu.edu/publications
+ - [page.research.html](docs/page.research.html) -> https://hive.biochemistry.gwu.edu/research
+ - [page.resources.html](docs/page.resources.html) -> https://hive.biochemistry.gwu.edu/resources
