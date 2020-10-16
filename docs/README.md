@@ -1,11 +1,11 @@
-# The HIVE Lab
+# The HIVE Lab Static Pages: Docs
 
 ### This repository serves to provide static content for The [GW HIVE Lab](https://hive.biochemistry.gwu.edu/home) pages. 
 
 #### If you are unfamiliar with Github please start [HERE](https://guides.github.com/activities/hello-world/)
 
 
-## For HIVE Lab associates who would like to contribute:
+## HIVE Lab associates who would like to contribute:
 
 1) [Fork this repository](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
 
@@ -13,7 +13,7 @@
 
 3) Submit a [Pull Request (PR)](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
 
-## [`/docs`](./docs) Table of contents
+## Table of contents
 
  - media: Folder for media files
  - page.datasets.html: https://hive.biochemistry.gwu.edu/datasets
