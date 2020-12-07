@@ -1,0 +1,13 @@
+# Blacklist files/folders in same directory as the .gitignore file
+/*
+
+# Whitelist some files
+!.gitignore
+!page.datasets.html
+!page.home.html
+!page.events.html
+!page.hiveteam.html
+!page.people.html
+!page.publications.html
+!page.research.html
+!page.resources.html
